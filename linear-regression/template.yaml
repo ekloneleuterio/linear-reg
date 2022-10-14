@@ -1,0 +1,9 @@
+name: linear-regression
+description: Linear Regression Template
+types:
+  - app-template
+inputs:
+  - label: Project name
+    type: text
+    name: project_name
+    default: project-name
