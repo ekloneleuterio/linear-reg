@@ -4,7 +4,7 @@
 Stack of machine learning - Linear Regression
 
 ## Objective
-* Stack intended to be an architecture of a backend project for creating api's. This project uses Python Django and the Postgresql DBMS. It also uses Docker to facilitate the implementation of the project in the development environment. This stack streamlines the development process allowing the developer to save time setting up the environment, allowing the team to move on to the next steps.
+* This stack is focused the template for the first steps for linear regression developers.
 
 ## Prerequisites
 - Programming Language: Python :snake:
@@ -18,7 +18,7 @@ Stack of machine learning - Linear Regression
 
 ## How to use
 
-### Docker Compose Commands
+### Install Commands
 
 ```bash
 python -m venv venv
