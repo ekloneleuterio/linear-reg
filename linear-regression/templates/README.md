@@ -4,7 +4,7 @@
 Stack of machine learning - Linear Regression
 
 ## Objective
-* This stack is focused the template for the first steps for linear regression developers.
+* This stack is focused on the template for the first steps for linear regression developers.
 
 ## Prerequisites
 - Programming Language: Python :snake:
